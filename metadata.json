@@ -1,0 +1,6 @@
+{
+  "name": "REOBOTE API - Intermediário Efí e Base44",
+  "description": "API REST intermediária segura entre o sistema REOBOTE no Base44 e a API de pagamentos PIX da Efí.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
